@@ -21,7 +21,7 @@ while True:
     print("2. Ver participantes por nombre")
     print("3. Ver participantes por edad")
     print("4. Salir")
-    opcion = input("Elige una opción (1-4): ")
+    opcion = input("Elige una opción: ")
     match opcion:
         case '1':
             while True:
